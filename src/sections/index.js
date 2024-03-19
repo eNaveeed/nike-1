@@ -1,0 +1,9 @@
+export { default as Header } from "./Header/Header.jsx";
+export { default as CustomerReview } from "./CustomerReviews/CustomerReviews.jsx";
+export { default as Footer } from "./Footer/Footer.jsx";
+export { default as Hero } from "./Hero/Hero.jsx";
+export { default as PopularProducts } from "./PopularProducts/PopularProducts.jsx";
+export { default as Services } from "./Services/Services.jsx";
+export { default as SpecialOffer } from "./SpecialOffer/SpecialOffer.jsx";
+export { default as Subscribe } from "./Subscribe/Subscribe.jsx";
+export { default as SuperQuality } from "./SuperQuality/SuperQuality.jsx";
